@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.tbh{
+  background: linear-gradient( #bdc3c7,#2c3e50);
+  
+}
+.heading{
+  color: grey;
+  text-shadow: 2px 2px black;
+}
+/* .container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
